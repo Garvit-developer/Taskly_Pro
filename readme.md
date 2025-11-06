@@ -26,7 +26,7 @@ Manage all your tasks, filter, search, and mark completion.
 
 ### 📊 Analytics Dashboard  
 Visual breakdown of tasks by category, priority, and completion status.  
-![Analytics Page](/.png)
+![Analytics Page](/analytics-page.png)
 analytics-page
 ### 🏷️ Categories Page  
 View and manage tasks grouped by their categories.  
