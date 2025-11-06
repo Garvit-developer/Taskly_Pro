@@ -22,23 +22,22 @@
 
 ### 🏠 Home Page  
 Manage all your tasks, filter, search, and mark completion.  
-![Home Page](/home-page.png)
-
+![Home Page](screenshots/home-page.png)
 ### 📊 Analytics Dashboard  
 Visual breakdown of tasks by category, priority, and completion status.  
-![Analytics Page](/analytics-page.png)
+![Analytics Page](screenshots/analytics-page.png)
 analytics-page
 ### 🏷️ Categories Page  
 View and manage tasks grouped by their categories.  
-![Categories Page](/categories-page.png)
+![Categories Page](screenshots/categories-page.png)
 
 ### ✅ Completed Tasks  
 View and reopen previously completed tasks easily.  
-![Completed Page](/completed-page.png)
+![Completed Page](screenshots/completed-page.png)
 
 ### ⚙️ Settings Page  
 Import/export data, clear completed or all todos, and manage preferences.  
-![Settings Page](/settings-page.png)
+![Settings Page](screenshots/settings-page.png)
 
 ---
 
