@@ -1,4 +1,6 @@
 # 📝 Taskly Pro – Your Smart Task Planner
+Hi! My name is Garvit Dani, I created Taskly Pro to help you manage, organize, and plan your daily tasks efficiently — making productivity simple, focused, and visually engaging.
+
 
 > A modern and responsive **Todo List & Task Planner App** built with **React (Vite)** and **Tailwind CSS**.  
 > Manage your daily goals, organize by category and priority, set due dates, and track productivity — all with a clean, minimal interface.
@@ -47,7 +49,6 @@ Import/export data, clear completed or all todos, and manage preferences.
 |-------------|-------------|
 | ⚛️ React (Vite) | Frontend framework for fast, modular development |
 | 🎨 Tailwind CSS | Modern utility-first CSS for styling |
-| 🗂️ Context API | Global state management for todos |
 | 🧮 date-fns | Date formatting and due date calculation |
 | 💾 LocalStorage | Persistent data storage on client side |
 | 🧱 React Icons | Modern, lightweight icon library |
